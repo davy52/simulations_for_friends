@@ -978,6 +978,12 @@ Connector-464:
 Connector-465: 
 <item itemtype="Connector" vflip="1" labely="-24" endpinid="Capacitor-23-lPin" id="Connector-465" Show_id="false" rotation="0" labelrot="0" valLabelx="0" valLabely="0" x="-1492" labelx="-16" y="132" startpinid="Push-453-switch0pinN" valLabRot="0" objectName="Connector-465" pointList="-1492,132,-1480,132" enodeid="enode-465" hflip="1"/>
  
+Connector-466: 
+<item itemtype="Connector" vflip="1" labely="-24" endpinid="FlipFlopD-92-in1" id="Connector-466" Show_id="false" rotation="0" labelrot="0" valLabelx="0" valLabely="0" x="-1044" labelx="-16" y="472" startpinid="Push-372-switch0pinN" valLabRot="0" objectName="Connector-466" pointList="-1044,472,-984,472,-984,504" enodeid="enode-466" hflip="1"/>
+ 
+Connector-467: 
+<item itemtype="Connector" vflip="1" labely="-24" endpinid="FlipFlopD-92-in2" id="Connector-467" Show_id="false" rotation="0" labelrot="0" valLabelx="0" valLabely="0" x="-1044" labelx="-16" y="568" startpinid="Push-379-switch0pinN" valLabRot="0" objectName="Connector-467" pointList="-1044,568,-984,568,-984,552" enodeid="enode-467" hflip="1"/>
+ 
 PlotterWidget-368: 
 <item windowModality="0" Scale="1" rect="" modal="false" windowOpacity="1" pos="" palette="" contextMenuPolicy="1" minimumWidth="200" Tracks="1" maximumSize="" acceptDrops="false" layoutDirection="0" fullScreen="false" MaxVolt="500" inputMethodHints="0" maximumHeight="200" minimized="false" frameGeometry="" focusPolicy="0" minimumSizeHint="" toolTipDuration="-1" font="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" geometry="" objectName="PlotterWidget-368" maximized="false" sizeHint="" normalGeometry="" enabled="true" focus="false" sizeIncrement="" x="0" size="" mouseTracking="false" accessibleDescription="" windowFilePath="" baseSize="" cursor="" windowIcon="" statusTip="" width="200" height="200" styleSheet="" locale="" windowModified="false" visible="false" itemtype="Plotter" isActiveWindow="true" updatesEnabled="true" toolTip="" whatsThis="" accessibleName="" windowIconText="" autoFillBackground="false" MinVolt="-500" childrenRect="" minimumHeight="200" windowTitle="" sizePolicy="" y="0" minimumSize="" maximumWidth="1000" childrenRegion="" frameSize=""/>
  
